@@ -1,4 +1,4 @@
-## Hi, I'm Charlie
+## Hi, I'm Aidan
 
 🧠 Computer Science Student at Georgia Tech<br/>
 📈 Driven to learn more about AI and Data science<br/>
